@@ -1132,4 +1132,4 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 
 
 
-<p align="center">Made with ❤  by Ash.</p>
+<p align="center">Made By Daniyal Khan.</p>
