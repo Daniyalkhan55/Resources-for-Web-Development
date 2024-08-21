@@ -1117,7 +1117,6 @@ Enjoy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 | [Fireship](https://www.youtube.com/c/Fireship)                                |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)             |
 | [Kevin Powell](https://youtube.com/kepowob)                                   |
-| [Lun Developer](https://www.youtube.com/@lundeveloper)                                   |
 | [Net Ninja](https://www.youtube.com/@NetNinja)                                   |
 | [Online Tutorial](https://www.youtube.com/@OnlineTutorialsYT)                                   |
 | [ProAcademy](https://www.youtube.com/@procademy) |
